@@ -1,0 +1,3 @@
+﻿  лаба 11.cpp
+C:\Users\крот\Documents\111 my docs\лекции, практика, лабы\информатика\codes\лаба 11\лаба 11.cpp(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\крот\Documents\111 my docs\лекции, практика, лабы\информатика\codes\лаба 11\лаба 11.cpp(155,19): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
